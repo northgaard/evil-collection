@@ -210,6 +210,7 @@ See `evil-collection-init' and `evil-collection--modes-with-delayed-setup'."
     flymake
     forge
     free-keys
+    gdb
     geiser
     ggtags
     git-timemachine
