@@ -167,6 +167,7 @@ This will bind additional find-* type commands, e.g. usages, assignments, etc.."
     flymake
     forge
     free-keys
+    gdb
     geiser
     ggtags
     git-timemachine
